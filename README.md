@@ -1,5 +1,5 @@
 # Проект по автоматизации тестирования naumen.ru
-<a href="https://boxberry.ru/"><img width="70%" title="Boxberry" src="images/logo/NAUMEN_2020.png"></a>
+<a href="https://naumen.ru/"><img width="70%" title="Boxberry" src="images/logo/NAUMEN_2020.png"></a>
 
 ## :point_up: Структура:
 
@@ -28,8 +28,8 @@
 </p>
 
 ## :point_up_2: Проведенные автотесты
-- Проверка работы страницы Network manager
-- Проверка работы поиска по сайту
+- Проверка работы страницы Network manager (с PageObjects)
+- Проверка работы поиска по сайту (с PageObjects)
 - Проверка наличия Title на странице (работоспособности сайта)
 - Проверка наличия ошибок в консоли
 
