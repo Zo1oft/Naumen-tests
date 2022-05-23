@@ -11,7 +11,6 @@
 - <a href="#point_up_2-интеграция-с-allure-testops">Интеграция с Allure TestOps</a>
 - <a href="#point_up_2-интеграция-с-jira">Интеграция с Jira</a>
 - <a href="#point_up_2-отчет-в-telegram">Отчет в Telegram</a>
-- <a href="#point_up_2-видео-примеры-прохождения-тестов">Видео примеры прохождения тестов</a>
 
 ## :point_up_2: Стек
 <p align="center">
@@ -102,10 +101,4 @@ test
 ## :point_up_2: Отчет в Telegram
 <p align="center">
 <img title="Telegram notification message" src="images/screenshots/telegram.png">
-</p>
-
-## :point_up_2: Видео примеры прохождения тестов
-> К каждому тесту в отчете прилагается видео. Одно из таких видео представлено ниже.
-<p align="center">
-  <img title="Selenoid Video" src="images/gif/selenoid.gif">
 </p>
