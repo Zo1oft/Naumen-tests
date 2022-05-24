@@ -26,6 +26,7 @@ public class MainPage {
     public void searchTransfer() {
         searchForm.setValue("контакт-центр");
     }
+    
     public void searchSubmit() {
         searchButton.click();
     }
