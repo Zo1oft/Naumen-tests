@@ -15,6 +15,11 @@ import org.junit.jupiter.api.extension.ExtendWith;
 
 @ExtendWith({AllureJunit5.class})
 public class TestBase {
+    MainPage mainPage = new MainPage();
+    NetworkManagerPage netPage = new NetworkManagerPage();
+    SearchPage searchPage = new SearchPage();
+    ProductsPage productPage = new ProductsPage();
+    
     @BeforeAll
     static void setUp() {
         SelenideLogger.addListener("AllureSelenide", new AllureSelenide());
