@@ -15,10 +15,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 
 public class NaumanTests extends TestBase {
-    MainPage mainPage = new MainPage();
-    NetworkManagerPage netPage = new NetworkManagerPage();
-    SearchPage searchPage = new SearchPage();
-    ProductsPage productPage = new ProductsPage();
 
     @Test
     @Description("Проверка работы страницы Network manager")
