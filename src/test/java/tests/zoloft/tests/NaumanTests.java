@@ -4,10 +4,6 @@ import tests.zoloft.helpers.DriverUtils;
 import io.qameta.allure.Description;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import tests.zoloft.pages.MainPage;
-import tests.zoloft.pages.NetworkManagerPage;
-import tests.zoloft.pages.ProductsPage;
-import tests.zoloft.pages.SearchPage;
 
 import static com.codeborne.selenide.Selenide.*;
 import static io.qameta.allure.Allure.step;
